@@ -1,0 +1,47 @@
+[
+  {
+  "prod_id": 1,
+  "precio": 60,
+  "nombre": "Arroz"
+  },
+  {
+  "prod_id": 2,
+  "precio": 65,
+  "nombre": "Fideos"
+  },
+  {
+  "prod_id": 3,
+  "precio": 30,
+  "nombre": "Agua"
+  },
+  {
+  "prod_id": 4,
+  "precio": 90,
+  "nombre": "Chocolate"
+  },
+  {
+  "prod_id": 5,
+  "precio": 70,
+  "nombre": "Aceite"
+  },
+  {
+  "prod_id": 6,
+  "precio": 240,
+  "nombre": "Huevos"
+  },
+  {
+  "prod_id": 7,
+  "precio": 37,
+  "nombre": "Harina"
+  },
+  {
+  "prod_id": 8,
+  "precio": 190,
+  "nombre": "Coca-Cola"
+  },
+  {
+  "prod_id": 9,
+  "precio": 83,
+  "nombre": "Tomates"
+  }
+]
